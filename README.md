@@ -6,3 +6,5 @@
 3，Digging Deep with ActiveSupport::Notifications https://speakerdeck.com/nextmat/digging-deep-with-activesupportnotifications
 
 4，API Documentation Browser  http://devdocs.io
+
+5，http://blog.csdn.net/resouer/article/details/7975550 Research on EventMachine
