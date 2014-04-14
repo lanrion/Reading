@@ -8,3 +8,5 @@
 4，API Documentation Browser  http://devdocs.io
 
 5，http://blog.csdn.net/resouer/article/details/7975550 Research on EventMachine
+
+6, ssh login 最佳实践: http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
