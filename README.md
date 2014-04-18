@@ -10,3 +10,7 @@
 5，http://blog.csdn.net/resouer/article/details/7975550 Research on EventMachine
 
 6, ssh login 最佳实践: http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+
+7, 学习ubuntu命令，很好的网站。
+
+http://www.lampblog.net/ubuntu/
