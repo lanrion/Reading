@@ -14,3 +14,5 @@
 7, 学习ubuntu命令，很好的网站。
 
 http://www.lampblog.net/ubuntu/
+
+8, 系统时间同步网络： http://www.howtogeek.com/tips/how-to-sync-your-linux-server-time-with-network-time-servers-ntp/
