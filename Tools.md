@@ -4,3 +4,7 @@
 1, github 小窍门
 
 http://segmentfault.com/a/1190000000475547
+
+
+SQL语句测试
+http://www.sqlfiddle.com/#!2
