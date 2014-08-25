@@ -27,4 +27,5 @@ http://www.lampblog.net/ubuntu/
 * git 的简明指南 http://rogerdudler.github.io/git-guide/index.zh.html 
 
 * Ruby Hacking Guide中文版 http://axgle.github.io/rhg/ 
+* Ruby 设计模式 https://github.com/lanrion/design-patterns-in-ruby 
 
