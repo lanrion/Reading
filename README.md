@@ -23,3 +23,6 @@ http://www.lampblog.net/ubuntu/
 * Mac 下配置Sublime http://tech.pro/tutorial/1880/launch-sublime-text-2-or-3-from-the-mac-osx-terminal
 
 * Ruby 2.1 的特性与改进，有兴趣的童鞋可以认真读一下。 http://globaldev.co.uk/2014/05/ruby-2-1-in-detail/ 
+
+* git 的简明指南 http://rogerdudler.github.io/git-guide/index.zh.html 
+
