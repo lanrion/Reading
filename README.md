@@ -28,4 +28,5 @@ http://www.lampblog.net/ubuntu/
 
 * Ruby Hacking Guide中文版 http://axgle.github.io/rhg/ 
 * Ruby 设计模式 https://github.com/lanrion/design-patterns-in-ruby 
+* 配置apace2 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 
