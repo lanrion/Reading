@@ -31,4 +31,5 @@ http://www.lampblog.net/ubuntu/
 * 配置apace2 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 * Rails 开发常见的10个错误：http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make
 * http://godrb.com/ God is an easy to configure, easy to extend monitoring framework written in Ruby.
+* GitHub上最热门的11款开源安全工具 http://code.csdn.net/news/2821680
 
