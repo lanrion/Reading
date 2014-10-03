@@ -32,4 +32,5 @@ http://www.lampblog.net/ubuntu/
 * Rails 开发常见的10个错误：http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make
 * http://godrb.com/ God is an easy to configure, easy to extend monitoring framework written in Ruby.
 * GitHub上最热门的11款开源安全工具 http://code.csdn.net/news/2821680
+* 五个你必须知道的javascript和web 调试技术 http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/ http://blog.jobbole.com/51872/
 
