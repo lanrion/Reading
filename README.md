@@ -34,4 +34,10 @@ http://www.lampblog.net/ubuntu/
 * GitHub上最热门的11款开源安全工具 http://code.csdn.net/news/2821680
 * 五个你必须知道的javascript和web 调试技术 http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/ http://blog.jobbole.com/51872/
 * 很多不错的大牛级别的Ruby视频演讲：http://www.confreaks.com/
+* Ruby性能测试工具 benchmark-ips
+
+   * stackprof
+   * allocation_tracer
+   * TracePoint
+   * GC.stat
 
