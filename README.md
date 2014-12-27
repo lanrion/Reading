@@ -41,4 +41,5 @@ http://www.lampblog.net/ubuntu/
    * TracePoint
    * GC.stat
 * Ubuntu源 http://wiki.ubuntu.org.cn/%E6%BA%90%E5%88%97%E8%A1%A8
+* http://www.rackspace.com/knowledge_center/article/ubuntu-apache-rails-and-thin
 
