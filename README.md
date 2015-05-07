@@ -43,3 +43,5 @@ http://www.lampblog.net/ubuntu/
 * Ubuntu源 http://wiki.ubuntu.org.cn/%E6%BA%90%E5%88%97%E8%A1%A8
 * http://www.rackspace.com/knowledge_center/article/ubuntu-apache-rails-and-thin
 
+* git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
+
