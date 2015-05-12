@@ -45,3 +45,11 @@ http://www.lampblog.net/ubuntu/
 
 * git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
 
+* 可以尝试使用的WEB UI 部署工具
+
+ * https://changelog.com/strano-github-powered-web-ui-for-capistrano-deployment/
+
+ * https://developer.zendesk.com/blog/introducing-samson-a-web-interface-for-deployments
+ 
+ * https://github.com/silverstripe/deploynaut
+ 
